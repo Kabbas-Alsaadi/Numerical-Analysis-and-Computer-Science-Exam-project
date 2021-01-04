@@ -3,5 +3,6 @@ Using C++ to find solutions to high level mathematical problems, such as: 1. Thr
 
 
 For Danish speakers: 
-- Filerne "Flowchart" forklarer hvad programmets generelle overbygning og "Problemformulering" er projektets fulde problemformulering.
+- Filerne "Flowchart" forklarer programmets generelle struktur.
+- "Problemformulering" er projektets fulde problemformulering.
 - Filen "Teori" er et 36 siders dokument som forklarer teorien bag løsningerne.
